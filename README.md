@@ -1,1 +1,1 @@
-An Arlo Home Assistant Integration
+A Telepeage Home Assistant Integration
